@@ -1,0 +1,37 @@
+{
+  "book": [
+    {
+      "title": "a little soul",
+      "author": "john",
+      "price": "100",
+      "publisher": "nani textiles",
+      "date": "2023-05-02",
+      "page": "150",
+      "copy": "30",
+      "isbn": "2023",
+      "id": 6
+    },
+    {
+      "title": "Based On Two Whilers",
+      "author": "Nani",
+      "price": "300",
+      "publisher": "textitle",
+      "date": "2020-06-28",
+      "page": "500",
+      "copy": "2",
+      "isbn": "2023",
+      "id": 7
+    },
+    {
+      "title": "A littile Girl",
+      "author": "John",
+      "price": "300",
+      "publisher": "textitles",
+      "date": "2023-05-25",
+      "page": "100",
+      "copy": "90",
+      "isbn": "8976",
+      "id": 8
+    }
+  ]
+}
